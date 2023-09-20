@@ -1,5 +1,4 @@
 import streamlit as st
-import cv2
 
 # Function to count animals in camera recordings
 def count_animals(video_file):
